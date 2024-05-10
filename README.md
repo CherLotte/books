@@ -189,4 +189,4 @@ UI设计、UX交互相关书籍
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
 ## Social science literature目录
 社科类图书
-- [枪炮，病菌与钢铁](./Social/)
+- [枪炮，病菌与钢铁](./[Social science]/)
