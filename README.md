@@ -187,3 +187,6 @@ UI设计、UX交互相关书籍
 - 移动应用UI设计模式.pdf。百度网盘：[https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw](https://pan.baidu.com/s/17C9gmUdf0HJzVMw_lr7ESw)，提取码 mpv5
 - 瞬间之美-web界面设计如何让用户心动。百度网盘：[https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA](https://pan.baidu.com/s/1L3le_e6fbPkZzADrQFyfjA)，提取码 gprq
 - 交互设计精髓about face4。百度网盘：[https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew](https://pan.baidu.com/s/1hsfWpvfjN2RElNTCIj0Rew)，提取码 h0ff
+## Social science literature目录
+社科类图书
+- 枪炮，病菌与钢铁。
